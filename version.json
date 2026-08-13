@@ -4,8 +4,8 @@
   "notas": "Nova aplicação Sysdev Tools",
   "linkDownload": "",
   "changelog": [
-    { "data": "2026-09-01", "descricao": "Ligação: Onde permite conectar ao SQL e respetivas Bd's/Ficheiros" },
     { "data": "2026-09-01", "descricao": "App Sysdev Tools, servirá de apoio ao Parceiro, no diagnóstico técnico de diversas situações." },
+    { "data": "2026-09-01", "descricao": "Ligação: Onde permite conectar ao SQL e respetivas Bd's/Ficheiros" },
     { "data": "2026-09-01", "descricao": "MSS: Dicionário de Dados, corresponde ao antigo ficheiro Tabelas MSS-V5.1.pdf." },
     { "data": "2026-09-01", "descricao": "MSS: Stored Procedures (PHC), para usar quando no processo habitual ocorrem erros - PENDENTE AINDA" },
     { "data": "2026-09-01", "descricao": "MSS: Mapeamentos - PENDENTE AINDA" },
